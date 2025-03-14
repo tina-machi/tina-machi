@@ -3,7 +3,7 @@
 ## About Me
 - I’m Tina Le, a 3rd-year Computing Science student at the University of Alberta.
 - I’m interested in cybersecurity, software development, data science, and AI!
-- Internal Coordinator @ Women in Cybersecurity University of Alberta Student Chapter.
+- Vice President @ Women in Cybersecurity University of Alberta Student Chapter.
 
 ## Skills
 - Programming & Databases: Python (Pandas, NumPy, Matplotlib), Java, C#, C++, SQLite, MongoDB.
