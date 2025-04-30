@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tina Le!
 
 # 💫 About Me:
-🎓 3rd-year Computing Science major at the University of Alberta<br>💼 Vice President of the WiCys University of Alberta Student Chapter<br>💻 Interested in software development, data analysis, AI, and cybersecurity!<br>🚀 Excited to learn new technologies and collaborate on impactful projects
+🎓 4th-year Computing Science major at the University of Alberta<br>💼 Vice President of the WiCys University of Alberta Student Chapter<br>💻 Interested in data analysis, software development, AI, and cybersecurity!<br>🚀 Excited to learn new technologies and collaborate on impactful projects
 
 
 ## 🌐 Connect With Me!:
